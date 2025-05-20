@@ -1,0 +1,4 @@
+res://game/startup.tscn
+res://game/audio/sound_library.tres
+res://game/mobs/dummy/dummy.tscn
+res://game/mobs/bat/bat.tscn

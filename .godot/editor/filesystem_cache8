@@ -1,0 +1,420 @@
+ea4bc82a6ad023ab7ee23ee620429895
+::res://::1747714123
+LICENSE.md::TextFile::-1::1747714115::0::1::::<><>::
+README.md::TextFile::-1::1747714115::0::1::::<><>::
+Version History.txt::TextFile::-1::1747714115::0::1::::<><>::
+::res://addons/::1747714115
+::res://addons/sound_material_matrix/::1747714115
+matrix_view.gd::GDScript::-1::1747714115::0::1::::<>Control<>::
+matrix_view.tscn::PackedScene::2601031725432660845::1747714115::0::1::::<><>::res://addons/sound_material_matrix/matrix_view.gd<>uid://bb1w68ko6r18x::::res://addons/sound_material_matrix/sound_matrix_item.tscn<>uid://d32unr47s5ii7::::res://game/audio/material_sound_library.tres
+plugin.cfg::TextFile::-1::1747714115::0::1::::<><>::
+sound_material_matrix.gd::GDScript::-1::1747714115::0::1::::<>EditorPlugin<>::
+sound_matrix_item.gd::GDScript::-1::1747714115::0::1::::SoundMatrixItem<>TextEdit<>::
+sound_matrix_item.tscn::PackedScene::2511676231785422233::1747714115::0::1::::<><>::res://addons/sound_material_matrix/sound_matrix_item.gd
+::res://game/::1747714115
+cheats.gd::GDScript::-1::1747714115::0::1::::Cheats<>Resource<>::
+game.gd::GDScript::-1::1747714115::0::1::::Game<>Node<>::
+game_settings.gd::GDScript::-1::1747714115::0::1::::GameSettings<>Resource<>::
+game_start.gd::GDScript::-1::1747714115::0::1::::GameStart<>Resource<>::
+my_named_resource.gd::GDScript::-1::1747714115::0::1::::MyNamedResource<>Resource<>::
+startup.gd::GDScript::-1::1747714115::0::1::::<>Node<>::
+startup.tscn::PackedScene::3683587734091853459::1747714115::0::1::::<><>::res://game/startup.gd
+::res://game/audio/::1747714115
+base_sound_player.gd::GDScript::-1::1747714115::0::1::::BaseSoundPlayer<>Node<>::
+material_sound_library.gd::GDScript::-1::1747714115::0::1::::MaterialSoundLibrary<>Resource<>::
+material_sound_library.tres::Resource/MaterialSoundLibrary::9181526366655373600::1747714115::0::1::::<><>::res://game/audio/material_sound_library.gd
+positional_sound_player.gd::GDScript::-1::1747714115::0::1::::<>BaseSoundPlayer<>::
+positional_sound_player.tscn::PackedScene::6148621478474585081::1747714115::0::1::::<><>::res://game/audio/positional_sound_player.gd
+sound_library.gd::GDScript::-1::1747714115::0::1::::SoundLibrary<>Resource<>::
+sound_library.tres::Resource/SoundLibrary::8577438625472016326::1747714115::0::1::::<><>::res://game/audio/sound_library.gd<>res://game/audio/sound_library_item.gd<>uid://2atyp575h0g5::::res://game/audio/sounds/fireworks.mp3
+sound_library_item.gd::GDScript::-1::1747714115::0::1::::SoundLibraryItem<>Resource<>::
+sound_player.gd::GDScript::-1::1747714115::0::1::::<>BaseSoundPlayer<>::
+sound_player.tscn::PackedScene::4488263314631131858::1747714115::0::1::::<><>::res://game/audio/sound_player.gd
+::res://game/audio/material sounds/::1747714115
+metal_vs_metal_1.mp3::AudioStreamMP3::5571033978801308728::1747714115::1747714125::1::::<><>::
+metal_vs_metal_2.mp3::AudioStreamMP3::815756798163729658::1747714115::1747714125::1::::<><>::
+metal_vs_plastic.mp3::AudioStreamMP3::6067249588039945536::1747714115::1747714125::1::::<><>::
+metal_vs_thin_metal.mp3::AudioStreamMP3::3188235736412009750::1747714115::1747714125::1::::<><>::
+metal_vs_wood.mp3::AudioStreamMP3::8986593538665409931::1747714115::1747714125::1::::<><>::
+plastic_vs_wood.mp3::AudioStreamMP3::3922560916125422425::1747714115::1747714125::1::::<><>::
+rock_vs_metal_1.mp3::AudioStreamMP3::7885412621830760686::1747714115::1747714125::1::::<><>::
+rock_vs_metal_2.mp3::AudioStreamMP3::5036558701050926558::1747714115::1747714125::1::::<><>::
+rock_vs_plastic.mp3::AudioStreamMP3::6615874945631652447::1747714115::1747714125::1::::<><>::
+rock_vs_rock.mp3::AudioStreamMP3::5406499423749284268::1747714115::1747714125::1::::<><>::
+rock_vs_thin_metal_1.mp3::AudioStreamMP3::552417076226947559::1747714115::1747714125::1::::<><>::
+rock_vs_thin_metal_2.mp3::AudioStreamMP3::1644281810608683927::1747714115::1747714125::1::::<><>::
+rock_vs_wood.mp3::AudioStreamMP3::3390970300119249091::1747714115::1747714125::1::::<><>::
+thin_metal_vs_plastic.mp3::AudioStreamMP3::7363141418746138388::1747714115::1747714125::1::::<><>::
+thin_metal_vs_wood.mp3::AudioStreamMP3::8652166026870321339::1747714115::1747714125::1::::<><>::
+::res://game/audio/sounds/::1747714115
+fireworks.mp3::AudioStreamMP3::1896296095831867238::1747714115::1747714125::1::::<><>::
+::res://game/autoload singletons/::1747714115
+data_manager.gd::GDScript::-1::1747714115::0::1::::<>Node<>::
+data_manager.tscn::PackedScene::6247149577884710502::1747714115::0::1::::<><>::res://game/autoload singletons/data_manager.gd<>uid://oilm5db18kw1::::res://resources/orig_tile_set.tres<>uid://b4403wlk4dsx6::::res://game/blocks/fluid_library.tres<>uid://dug8fqdiebex7::::res://game/audio/sound_library.tres<>uid://d32unr47s5ii7::::res://game/audio/material_sound_library.tres
+game_manager.gd::GDScript::-1::1747714115::0::1::::<>Node<>::
+game_manager.tscn::PackedScene::3866909679081304621::1747714115::0::1::::<><>::res://game/autoload singletons/game_manager.gd<>uid://cq1j11s6jlegu::::res://game/ui/main_menu.tscn
+global.gd::GDScript::-1::1747714115::0::1::::<>Node<>::
+user_config.gd::GDScript::-1::1747714115::0::1::::<>Node<>::
+utils.gd::GDScript::-1::1747714115::0::1::::Utils<>RefCounted<>::
+::res://game/block entities/::1747714115
+base_block_entity.gd::GDScript::-1::1747714115::0::1::::BaseBlockEntity<>StaticBody2D<>::
+base_block_entity.tscn::PackedScene::5995577300543017108::1747714115::0::1::::<><>::res://game/block entities/base_block_entity.gd
+block_entity_definition.gd::GDScript::-1::1747714115::0::1::::BlockEntityDefinition<>MyNamedResource<>::
+::res://game/block entities/furnace/::1747714115
+furnace.gd::GDScript::-1::1747714115::0::1::::Furnace<>BaseBlockEntity<>::
+furnace.png::CompressedTexture2D::3155297028144963354::1747714115::1747714125::1::::<><>::
+furnace.tres::Resource/BlockEntityDefinition::1174081742524421329::1747714115::0::1::::<><>::uid://b7tlou78nevvw::::res://game/items/clay/clay.tres<>uid://bonrl4spbueh8::::res://game/block entities/furnace/furnace.tscn<>res://game/block entities/block_entity_definition.gd<>res://game/player/inventory/inventory_item.gd
+furnace.tscn::PackedScene::3396954789705607599::1747714115::0::1::::<><>::uid://crokjugu1888g::::res://game/block entities/base_block_entity.tscn<>res://game/block entities/furnace/furnace.gd<>uid://bk7pjs50dqwso::::res://game/block entities/furnace/furnace.png<>uid://cja4g0evfsll1::::res://game/block entities/furnace/furnace_working.png<>res://game/components/interaction target/interaction_target.gd<>uid://vgl3mtr5d37f::::res://game/components/debug component/debug_component.tscn<>uid://bdy43ueb6q1kq::::res://game/components/damage system/health_component.tscn
+furnace_working.png::CompressedTexture2D::5406313787906667836::1747714115::1747714125::1::::<><>::
+::res://game/blocks/::1747714115
+artificial_block.gd::GDScript::-1::1747714115::0::1::::ArtificialBlock<>Block<>::
+block.gd::GDScript::-1::1747714115::0::1::::Block<>MyNamedResource<>::
+fluid_block.gd::GDScript::-1::1747714115::0::1::::FluidBlock<>Block<>::
+fluid_library.gd::GDScript::-1::1747714115::0::1::::FluidLibrary<>Resource<>::
+fluid_library.tres::Resource/FluidLibrary::4483333204112071645::1747714115::0::1::::<><>::uid://bys57w7lsd5mg::::res://game/blocks/water blocks/water_fluid.tres<>res://game/blocks/fluid_library.gd
+fluid_library_item.gd::GDScript::-1::1747714115::0::1::::FluidLibraryItem<>Resource<>::
+fluid_source_block.gd::GDScript::-1::1747714115::0::1::::FluidSourceBlock<>Block<>::
+::res://game/blocks/air block/::1747714115
+air_block.tres::Resource/Block::5454710857626852108::1747714115::0::1::::<><>::res://game/blocks/block.gd
+::res://game/blocks/clay block/::1747714115
+clay.png::CompressedTexture2D::6604153911367165212::1747714115::1747714125::1::::<><>::
+clay_block.tres::Resource/Block::8783606069127921181::1747714115::0::1::::<><>::res://game/blocks/block.gd<>uid://b7tlou78nevvw::::res://game/items/clay/clay.tres<>uid://c1ddpkiolitey::::res://game/blocks/clay block/clay.png
+::res://game/blocks/coal block/::1747714115
+coal.png::CompressedTexture2D::6041438000623778959::1747714115::1747714125::1::::<><>::
+coal_block.tres::Resource/Block::9041305522640236561::1747714115::0::1::::<><>::uid://dvmim47wemg41::::res://game/items/coal ore/coal_ore.tres<>res://game/blocks/block.gd<>uid://sq7bx4hrpblf::::res://game/tags/ore_blocks.tres<>uid://cscruo81ch07t::::res://game/blocks/coal block/coal.png
+::res://game/blocks/dirt block/::1747714115
+dirt.png::CompressedTexture2D::2267677235279381929::1747714115::1747714125::1::::<><>::
+dirt_block.tres::Resource/Block::3434973401483877062::1747714115::0::1::::<><>::res://game/blocks/block.gd<>uid://7kqkvsppaw86::::res://game/blocks/dirt block/dirt.png
+::res://game/blocks/godot block/::1747714115
+godot.png::CompressedTexture2D::5626292247419292517::1747714115::1747714125::1::::<><>::
+godot_block.gd::GDScript::-1::1747714115::0::1::::GodotBlock<>Block<>::
+godot_block.tres::Resource/GodotBlock::2349545876069101791::1747714115::0::1::::<><>::res://game/blocks/godot block/godot_block.gd<>uid://cmfohgjcmckor::::res://game/blocks/godot block/godot.png
+::res://game/blocks/gold block/::1747714115
+gold.png::CompressedTexture2D::870990141385671509::1747714115::1747714125::1::::<><>::
+gold_block.tres::Resource/Block::2539416224154529566::1747714115::0::1::::<><>::res://game/blocks/block.gd<>uid://ckbocg6gajtlc::::res://game/items/gold ore/gold_ore.tres<>uid://sq7bx4hrpblf::::res://game/tags/ore_blocks.tres<>uid://mn6cy6craf22::::res://game/blocks/gold block/gold.png
+::res://game/blocks/grass block/::1747714115
+grass.png::CompressedTexture2D::2525802361063135153::1747714115::1747714125::1::::<><>::
+grass_block.gd::GDScript::-1::1747714115::0::1::::GrassBlock<>Block<>::
+grass_block.tres::Resource/GrassBlock::868422368579552004::1747714115::0::1::::<><>::res://game/blocks/grass block/grass_block.gd<>uid://bo66rlvwjy2w5::::res://game/blocks/dirt block/dirt_block.tres<>uid://bb8rui21ljft6::::res://game/blocks/grass block/grass.png
+::res://game/blocks/iron block/::1747714115
+iron.png::CompressedTexture2D::384557504890873981::1747714115::1747714125::1::::<><>::
+iron_block.tres::Resource/Block::985089211495633037::1747714115::0::1::::<><>::uid://dxr48tuivsyc2::::res://game/items/iron ore/iron_ore.tres<>res://game/blocks/block.gd<>uid://sq7bx4hrpblf::::res://game/tags/ore_blocks.tres<>uid://fqjuupebpt0x::::res://game/blocks/iron block/iron.png
+::res://game/blocks/smooth stone block/::1747714115
+smooth_stone_block.png::CompressedTexture2D::3020752516907925076::1747714115::1747714125::1::::<><>::
+smooth_stone_block.tres::Resource/ArtificialBlock::2410832898329438804::1747714115::0::1::::<><>::res://game/blocks/artificial_block.gd<>uid://jkfdi3kaaiof::::res://game/items/stone/stone.tres<>uid://boaaatfynuoc2::::res://game/items/stone slab/stone_slab.tres<>res://game/player/inventory/inventory_item.gd<>uid://bjbjl8vhp2qqm::::res://game/blocks/smooth stone block/smooth_stone_block.png
+::res://game/blocks/stone block/::1747714115
+stone.png::CompressedTexture2D::7358794585672444344::1747714115::1747714125::1::::<><>::
+stone_block.tres::Resource/Block::3919169805652881657::1747714115::0::1::::<><>::uid://jkfdi3kaaiof::::res://game/items/stone/stone.tres<>res://game/blocks/block.gd<>uid://dc3wjicuyfidk::::res://game/blocks/stone block/stone.png
+::res://game/blocks/stone ramp/::1747714115
+stone_ramp.png::CompressedTexture2D::1038571471623282554::1747714115::1747714125::1::::<><>::
+stone_ramp_block.tres::Resource/ArtificialBlock::7631525115037398306::1747714115::0::1::::<><>::uid://boaaatfynuoc2::::res://game/items/stone slab/stone_slab.tres<>res://game/blocks/artificial_block.gd<>uid://o2dedghpikjq::::res://game/blocks/stone ramp/stone_ramp.png<>res://game/player/inventory/inventory_item.gd
+::res://game/blocks/water blocks/::1747714115
+water.png::CompressedTexture2D::5608249489033685661::1747714115::1747714125::1::::<><>::
+water_block.tres::Resource/FluidBlock::9209272141535214437::1747714115::0::1::::<><>::uid://c88ohnh35u3si::::res://game/blocks/water blocks/water_flowing.png<>res://game/blocks/fluid_block.gd<>uid://cl5xbxp01bj06::::res://game/blocks/water blocks/water.png
+water_flowing.png::CompressedTexture2D::7158060906711591964::1747714115::1747714125::1::::<><>::
+water_fluid.tres::Resource/FluidLibraryItem::4109991591238346030::1747714115::0::1::::<><>::uid://d4hbmp48eqem4::::res://game/blocks/water blocks/water_block.tres<>uid://cotoue1kmmwxo::::res://game/blocks/water blocks/water_half_block.tres<>uid://c3lu08ssbfn4k::::res://game/blocks/water blocks/water_three_quarter_block.tres<>uid://cdsr7rdwvpfcd::::res://game/blocks/water blocks/water_quarter_block.tres<>res://game/blocks/fluid_library_item.gd<>uid://4wrw0b5rir0v::::res://game/blocks/water blocks/water_three_quarter_flowing_block.tres<>uid://d3dvlrny3fyen::::res://game/blocks/water blocks/water_half_flowing_block.tres<>uid://crfanhegjj60g::::res://game/blocks/water blocks/water_quarter_flowing_block.tres
+water_half.png::CompressedTexture2D::4978806762268796901::1747714115::1747714125::1::::<><>::
+water_half_block.tres::Resource/FluidBlock::5795594360151823188::1747714115::0::1::::<><>::uid://c88ohnh35u3si::::res://game/blocks/water blocks/water_flowing.png<>res://game/blocks/fluid_block.gd<>uid://cc61hqjm4pdvh::::res://game/blocks/water blocks/water_half.png
+water_half_flowing_block.tres::Resource/FluidBlock::9132038420894940701::1747714115::0::1::::<><>::res://game/blocks/fluid_block.gd<>uid://c88ohnh35u3si::::res://game/blocks/water blocks/water_flowing.png
+water_quarter.png::CompressedTexture2D::5459007371523598003::1747714115::1747714125::1::::<><>::
+water_quarter_block.tres::Resource/FluidBlock::5021656930714965283::1747714115::0::1::::<><>::uid://c88ohnh35u3si::::res://game/blocks/water blocks/water_flowing.png<>res://game/blocks/fluid_block.gd<>uid://cj1nb3ibx7llb::::res://game/blocks/water blocks/water_quarter.png
+water_quarter_flowing_block.tres::Resource/FluidBlock::5976397187451513836::1747714115::0::1::::<><>::res://game/blocks/fluid_block.gd<>uid://c88ohnh35u3si::::res://game/blocks/water blocks/water_flowing.png
+water_source_block.tres::Resource/FluidSourceBlock::2557050551939709269::1747714115::0::1::::<><>::uid://bys57w7lsd5mg::::res://game/blocks/water blocks/water_fluid.tres<>res://game/blocks/fluid_source_block.gd<>uid://cl5xbxp01bj06::::res://game/blocks/water blocks/water.png
+water_three_quarter.png::CompressedTexture2D::4007677148172940327::1747714115::1747714125::1::::<><>::
+water_three_quarter_block.tres::Resource/FluidBlock::6762097891145138832::1747714115::0::1::::<><>::res://game/blocks/fluid_block.gd<>uid://c88ohnh35u3si::::res://game/blocks/water blocks/water_flowing.png<>uid://bxdl4e2rr0rbj::::res://game/blocks/water blocks/water_three_quarter.png
+water_three_quarter_flowing_block.tres::Resource/FluidBlock::2081965568449865211::1747714115::0::1::::<><>::res://game/blocks/fluid_block.gd<>uid://c88ohnh35u3si::::res://game/blocks/water blocks/water_flowing.png
+::res://game/components/::1747714115
+smoother.gd::GDScript::-1::1747714115::0::1::::Smoother<>Node<>::
+::res://game/components/damage system/::1747714115
+damage.gd::GDScript::-1::1747714115::0::1::::Damage<>Resource<>::
+damage_area.gd::GDScript::-1::1747714115::0::1::::DamageArea<>Area2D<>::
+damage_area.tscn::PackedScene::1880062280128364381::1747714115::0::1::::<><>::res://game/components/damage system/damage_area.gd
+health_component.gd::GDScript::-1::1747714115::0::1::::HealthComponent<>Node<>::
+health_component.tscn::PackedScene::2648344132457939036::1747714115::0::1::::<><>::res://game/components/damage system/health_component.gd
+hurtbox.gd::GDScript::-1::1747714115::0::1::::HurtBox<>Area2D<>::
+hurtbox.tscn::PackedScene::269446858354614667::1747714115::0::1::::<><>::res://game/components/damage system/hurtbox.gd
+::res://game/components/debug component/::1747714115
+debug_component.gd::GDScript::-1::1747714115::0::1::::DebugComponent<>Node<>::
+debug_component.tscn::PackedScene::1487070532516936205::1747714115::0::1::::<><>::res://game/components/debug component/debug_component.gd
+node_debugger.gd::GDScript::-1::1747714115::0::1::::<>Node<>::
+::res://game/components/interaction target/::1747714115
+interaction_target.gd::GDScript::-1::1747714115::0::1::::InteractionTarget<>Area2D<>::
+interaction_target.tscn::PackedScene::1438734219565146882::1747714115::0::1::::<><>::res://game/components/interaction target/interaction_target.gd
+::res://game/components/state machine/::1747714115
+finite_state_machine.gd::GDScript::-1::1747714115::0::1::::FiniteStateMachine<>Node<>::
+state_machine.tscn::PackedScene::5507868442701792139::1747714115::0::1::::<><>::res://game/components/state machine/finite_state_machine.gd
+state_machine_state.gd::GDScript::-1::1747714115::0::1::::StateMachineState<>Node<>::
+::res://game/components/tile detector/::1747714115
+tile_detector.gd::GDScript::-1::1747714115::0::1::::TileDetector<>Node2D<>::
+tile_detector.tscn::PackedScene::734708747283616500::1747714115::0::1::::<><>::res://game/components/tile detector/tile_detector.gd
+::res://game/components/user settings/::1747714115
+user_settings.gd::GDScript::-1::1747714115::0::1::::<>Node<>::
+user_settings.tscn::PackedScene::450195824119762853::1747714115::0::1::::<><>::res://game/components/user settings/user_settings.gd
+::res://game/effects/::1747714115
+effects.gd::GDScript::-1::1747714115::0::1::::<>Node<>::
+effects.tscn::PackedScene::8682288565204447657::1747714115::0::1::::<><>::res://game/effects/effects.gd<>uid://dkgkei4ukw0aw::::res://game/effects/particles/particle_system.tscn<>uid://cjebmmuxqjrgl::::res://game/effects/fireworks/fireworks.tscn
+::res://game/effects/block break animation/::1747714115
+block_break_animation.png::CompressedTexture2D::5541096050400540802::1747714115::1747714125::1::::<><>::
+block_break_animation.tscn::PackedScene::2921188763889036334::1747714115::0::1::::<><>::uid://ck7fbo86yi3bq::::res://game/effects/block break animation/block_break_animation.png
+::res://game/effects/block marker/::1747714115
+block_marker.png::CompressedTexture2D::2948174728147108872::1747714115::1747714125::1::::<><>::
+block_marker.tscn::PackedScene::4654360157151221709::1747714115::0::1::::<><>::uid://biaeaiewj158o::::res://game/effects/block marker/block_marker.png
+::res://game/effects/fireworks/::1747714115
+fireworks.gd::GDScript::-1::1747714115::0::1::::Fireworks<>Node2D<>::
+fireworks.tscn::PackedScene::5412881279907417667::1747714115::0::1::::<><>::res://game/effects/fireworks/fireworks.gd<>uid://bir30swo4r34p::::res://game/effects/fireworks/single_fireworks.tscn
+single_fireworks.gd::GDScript::-1::1747714115::0::1::::SingleFireworks<>CPUParticles2D<>::
+single_fireworks.tscn::PackedScene::2984771555343010673::1747714115::0::1::::<><>::res://game/effects/fireworks/single_fireworks.gd
+::res://game/effects/particles/::1747714115
+block_break_particles.tres::Resource/ParticleSettings::1374585021104425256::1747714115::0::1::::<><>::res://game/effects/particles/particle_setting.gd
+explosion_particles.tres::Resource/ParticleSettings::7785089196279146429::1747714115::0::1::::<><>::res://game/effects/particles/particle_setting.gd
+my_particle.gd::GDScript::-1::1747714115::0::1::::MyParticle<>Node2D<>::
+my_particle_system.gd::GDScript::-1::1747714115::0::1::::MyParticleSystem<>Node2D<>::
+particle.tscn::PackedScene::812261251570825992::1747714115::0::1::::<><>::res://game/effects/particles/my_particle.gd
+particle_setting.gd::GDScript::-1::1747714115::0::1::::ParticleSettings<>Resource<>::
+particle_system.tscn::PackedScene::7874151532996364554::1747714115::0::1::::<><>::res://game/effects/particles/my_particle_system.gd<>uid://ltp3ayav31k3::::res://game/effects/particles/particle.tscn
+::res://game/items/::1747714115
+hand_item.gd::GDScript::-1::1747714115::0::1::::HandItem<>Item<>::
+item.gd::GDScript::-1::1747714115::0::1::::Item<>MyNamedResource<>::
+projectile.gd::GDScript::-1::1747714115::0::1::::Projectile<>CharacterBody2D<>::
+::res://game/items/clay/::1747714115
+clay.png::CompressedTexture2D::4110984851782689056::1747714115::1747714125::1::::<><>::
+clay.tres::Resource/Item::4672380846890040516::1747714115::0::1::::<><>::res://game/items/item.gd<>uid://bytnk412121r5::::res://game/items/clay/clay.png
+::res://game/items/coal ore/::1747714115
+coal.png::CompressedTexture2D::2290885885036007217::1747714115::1747714125::1::::<><>::
+coal_ore.tres::Resource/Item::8658509039611990764::1747714115::0::1::::<><>::res://game/items/item.gd<>uid://f3gfebet4jby::::res://game/tags/ores.tres<>uid://7vys5sdr1ckv::::res://game/items/coal ore/coal.png
+::res://game/items/fish/::1747714115
+fish.png::CompressedTexture2D::6802745556139022549::1747714115::1747714125::1::::<><>::
+fish.tres::Resource/Item::6720465614795353357::1747714115::0::1::::<><>::res://game/items/item.gd<>uid://c36khwt0tuk5b::::res://game/items/fish/fish.png
+::res://game/items/fishing rod/::1747714115
+fishing_rod.gd::GDScript::-1::1747714115::0::1::::FishingRod<>HandItemObject<>::
+fishing_rod.png::CompressedTexture2D::6992662075813180486::1747714115::1747714125::1::::<><>::
+fishing_rod.tres::Resource/HandItem::3417832849905302190::1747714115::0::1::::<><>::res://game/items/hand_item.gd<>uid://d21rx68kgfg2h::::res://game/items/fishing rod/fishing_rod.tscn<>uid://c6vkef5qqfgd7::::res://game/items/fishing rod/fishing_rod.png
+fishing_rod.tscn::PackedScene::9109109592713551037::1747714115::0::1::::<><>::res://game/items/fishing rod/fishing_rod.gd<>res://game/items/fishing rod/hook.gd<>uid://kp5ss4gudwu3::::res://game/components/tile detector/tile_detector.tscn
+hook.gd::GDScript::-1::1747714115::0::1::::FishingRodHookBody<>CharacterBody2D<>::
+::res://game/items/gold ore/::1747714115
+gold.png::CompressedTexture2D::7936498183160418721::1747714115::1747714125::1::::<><>::
+gold_ore.tres::Resource/Item::5477648154309152396::1747714115::0::1::::<><>::res://game/items/item.gd<>uid://f3gfebet4jby::::res://game/tags/ores.tres<>uid://dlcq73ftsg1rh::::res://game/items/gold ore/gold.png
+::res://game/items/grenade/::1747714115
+grenade.gd::GDScript::-1::1747714115::0::1::::Grenade<>Projectile<>::
+grenade.png::CompressedTexture2D::3803674685230702731::1747714115::1747714125::1::::<><>::
+grenade.tres::Resource/HandItem::5810354210621316512::1747714115::0::1::::<><>::res://game/items/hand_item.gd<>uid://53373xw8w422::::res://game/items/grenade/grenade.tscn<>uid://bugr74ddrapa6::::res://game/items/grenade/grenade.png
+grenade.tscn::PackedScene::2165226614685946085::1747714115::0::1::::<><>::res://game/items/grenade/grenade.gd
+::res://game/items/iron ingot/::1747714115
+iron_ingot.png::CompressedTexture2D::3379956978815420744::1747714115::1747714125::1::::<><>::
+iron_ingot.tres::Resource/Item::2893329139838977018::1747714115::0::1::::<><>::res://game/items/item.gd<>uid://bofjnrwggp6bs::::res://game/items/iron ingot/iron_ingot.png
+::res://game/items/iron ore/::1747714115
+iron.png::CompressedTexture2D::2671436452607038874::1747714115::1747714125::1::::<><>::
+iron_ore.tres::Resource/Item::8810520629794176031::1747714115::0::1::::<><>::res://game/items/item.gd<>uid://f3gfebet4jby::::res://game/tags/ores.tres<>uid://beccfyj6t28ha::::res://game/items/iron ore/iron.png
+::res://game/items/iron rod/::1747714115
+iron_rod.png::CompressedTexture2D::1190384737755235384::1747714115::1747714125::1::::<><>::
+iron_rod.tres::Resource/Item::8692631448082411514::1747714115::0::1::::<><>::res://game/items/item.gd<>uid://q7vpy5qvoquq::::res://game/items/iron rod/iron_rod.png
+::res://game/items/pickaxe/::1747714115
+pickaxe.png::CompressedTexture2D::6441409475395310719::1747714115::1747714125::1::::<><>::
+pickaxe.tres::Resource/HandItem::7503687379771724894::1747714115::0::1::::<><>::res://game/items/hand_item.gd<>uid://beruoxj04jcop::::res://game/items/pickaxe/pickaxe.tscn<>uid://cx1jcqlsqk8ql::::res://game/items/pickaxe/pickaxe.png
+pickaxe.tscn::PackedScene::2703511044149533547::1747714115::0::1::::<><>::res://game/player/hand_item_object.gd
+::res://game/items/stone/::1747714115
+stone.png::CompressedTexture2D::6569252620851162433::1747714115::1747714125::1::::<><>::
+stone.tres::Resource/Item::652652776524124993::1747714115::0::1::::<><>::res://game/items/item.gd<>uid://c0ugvpklexp2x::::res://game/items/stone/stone.png
+::res://game/items/stone slab/::1747714115
+stone_slab.png::CompressedTexture2D::6956051904365407226::1747714115::1747714125::1::::<><>::
+stone_slab.tres::Resource/Item::3369065501401854151::1747714115::0::1::::<><>::res://game/items/item.gd<>uid://c6dtfnks2kxgs::::res://game/items/stone slab/stone_slab.png
+::res://game/items/sword/::1747714115
+sword.png::CompressedTexture2D::7450172336583350547::1747714115::1747714125::1::::<><>::
+sword.tres::Resource/HandItem::193245853228043742::1747714115::0::1::::<><>::uid://cfl3rvrkdqktu::::res://game/items/sword/sword.tscn<>res://game/items/hand_item.gd<>uid://dee6iq5cab4vn::::res://game/items/sword/sword.png
+sword.tscn::PackedScene::5148225304875898226::1747714115::0::1::::<><>::res://game/player/hand_item_object.gd<>res://game/components/damage system/damage_area.gd<>res://game/components/damage system/damage.gd
+::res://game/mobs/::1747714115
+base_mob.gd::GDScript::-1::1747714115::0::1::::BaseMob<>CharacterBody2D<>::
+base_mob.tscn::PackedScene::7935334043277573140::1747714115::0::1::::<><>::res://game/mobs/base_mob.gd<>res://game/components/damage system/health_component.gd<>res://game/components/state machine/finite_state_machine.gd<>uid://d3r0rply8mfj::::res://game/components/damage system/hurtbox.tscn
+mob_definition.gd::GDScript::-1::1747714115::0::1::::MobDefinition<>MyNamedResource<>::
+::res://game/mobs/bat/::1747714115
+bat.gd::GDScript::-1::1747714115::0::1::::Bat<>BaseMob<>::
+bat.tres::Resource/MobDefinition::9116882831676973139::1747714115::0::1::::<><>::uid://dx7aae3y68pyh::::res://game/mobs/bat/bat.tscn<>res://game/mobs/mob_definition.gd<>res://game/world/components/mob spawner/mob_spawner_definition.gd
+bat.tscn::PackedScene::8839665797365076843::1747714115::0::1::::<><>::uid://dlb6166tyk62s::::res://game/mobs/base_mob.tscn<>res://game/mobs/bat/bat.gd<>res://game/mobs/bat/sleep_state.gd<>res://game/mobs/bat/fly_state.gd
+fly_state.gd::GDScript::-1::1747714115::0::1::::<>StateMachineState<>::
+sleep_state.gd::GDScript::-1::1747714115::0::1::::<>StateMachineState<>::
+::res://game/mobs/dummy/::1747714115
+dummy.tscn::PackedScene::1635319256900544205::1747714115::0::1::::<><>::res://game/mobs/base_mob.gd<>uid://bdy43ueb6q1kq::::res://game/components/damage system/health_component.tscn<>res://game/components/damage system/hurtbox.gd
+::res://game/mobs/fish/::1747714115
+fish.gd::GDScript::-1::1747714115::0::1::::Fish<>BaseMob<>::
+fish.tres::Resource/MobDefinition::8321970993108222785::1747714115::0::1::::<><>::res://game/mobs/mob_definition.gd<>uid://evryq0c23cxa::::res://game/mobs/fish/fish.tscn
+fish.tscn::PackedScene::325183234439900454::1747714115::0::1::::<><>::uid://dlb6166tyk62s::::res://game/mobs/base_mob.tscn<>res://game/mobs/fish/fish.gd<>uid://c20pc7lypxugj::::res://game/items/fish/fish.tres<>uid://kp5ss4gudwu3::::res://game/components/tile detector/tile_detector.tscn
+::res://game/player/::1747714115
+base_player.gd::GDScript::-1::1747714115::0::1::::BasePlayer<>CharacterBody2D<>::
+base_player.tscn::PackedScene::9220735280712507504::1747714115::0::1::::<><>::res://game/player/base_player.gd<>uid://c8feqy48gw426::::res://game/player/loadouts/default_loadout.tres<>uid://b7kuvqlnmagen::::res://game/effects/block marker/block_marker.tscn<>uid://bhvbs1jyh6255::::res://game/effects/block break animation/block_break_animation.tscn<>uid://dcor34lsh3lfc::::res://game/player/virtual_projectile_thrower.tscn<>uid://d1tn6k71bbasx::::res://game/player/mine_raycast.tscn<>uid://kp5ss4gudwu3::::res://game/components/tile detector/tile_detector.tscn<>uid://b4uyq2o7u54dp::::res://game/player/player_ui.tscn<>uid://bdy43ueb6q1kq::::res://game/components/damage system/health_component.tscn<>uid://vgl3mtr5d37f::::res://game/components/debug component/debug_component.tscn<>uid://d3r0rply8mfj::::res://game/components/damage system/hurtbox.tscn<>uid://ckqb12s3uef52::::res://game/components/state machine/state_machine.tscn<>res://game/player/state machine/player_state_machine.gd<>res://game/player/state machine/default_state.gd<>res://game/player/state machine/mining_state.gd<>res://game/player/state machine/item_using_state.gd<>res://game/player/state machine/item_charging_state.gd<>res://game/player/crafting/crafting.gd<>res://game/player/state machine/dying_state.gd<>res://game/player/state machine/building_state.gd<>res://game/player/vehicle_logic.gd<>res://game/player/state machine/fishing_state.gd
+buildable.gd::GDScript::-1::1747714115::0::1::::Buildable<>RefCounted<>::
+build_list_item.gd::GDScript::-1::1747714115::0::1::::BuildListItem<>UIListItem<>::
+build_list_item.tscn::PackedScene::8095251134919463866::1747714115::0::1::::<><>::uid://2ejptqf8her3::::res://game/player/ui_list_item.tscn<>res://game/player/build_list_item.gd
+build_menu.gd::GDScript::-1::1747714115::0::1::::BuildMenu<>Control<>::
+build_menu.tscn::PackedScene::6972999258929888891::1747714115::0::1::::<><>::res://game/player/build_menu.gd<>uid://dnlnuruo3l4ha::::res://game/player/build_list_item.tscn
+hand.gd::GDScript::-1::1747714115::0::1::::Hand<>Node2D<>::
+hand_item_object.gd::GDScript::-1::1747714115::0::1::::HandItemObject<>Node2D<>::
+mine_raycast.tscn::PackedScene::9024240419362236755::1747714115::0::1::::<><>::
+player_effect.gd::GDScript::-1::1747714115::0::1::::PlayerEffect<>RefCounted<>::
+player_loadout.gd::GDScript::-1::1747714115::0::1::::PlayerLoadout<>Resource<>::
+player_ui.gd::GDScript::-1::1747714115::0::1::::UI<>CanvasLayer<>::
+player_ui.tscn::PackedScene::4464671926045697945::1747714115::0::1::::<><>::res://game/player/player_ui.gd<>uid://dco5af8vue5ff::::res://game/player/hotbar/hotbar_slot.tscn<>uid://dtq28wgfpmux8::::res://game/player/inventory/inventory_slot.tscn<>uid://d05k54ks64l8d::::res://game/player/crafting/crafting_ui.tscn<>uid://c6l1jqs4ln37t::::res://game/player/build_menu.tscn
+ui_list_item.gd::GDScript::-1::1747714115::0::1::::UIListItem<>PanelContainer<>::
+ui_list_item.tscn::PackedScene::1903930552018665046::1747714115::0::1::::<><>::res://game/player/ui_list_item.gd
+vehicle_logic.gd::GDScript::-1::1747714115::0::1::::PlayerVehicleLogic<>Node<>::
+virtual_projectile_thrower.gd::GDScript::-1::1747714115::0::1::::VirtualProjectileThrower<>HandItemObject<>::
+virtual_projectile_thrower.tscn::PackedScene::7329624759016879912::1747714115::0::1::::<><>::res://game/player/virtual_projectile_thrower.gd
+::res://game/player/characters/::1747714115
+::res://game/player/characters/El Classico/::1747714115
+el_classico.gd::GDScript::-1::1747714115::0::1::::<>BasePlayer<>::
+el_classico.tscn::PackedScene::2428054557374409195::1747714115::0::1::::<><>::uid://d4mufsk5s6ksm::::res://game/player/base_player.tscn<>res://game/player/characters/El Classico/el_classico.gd<>res://game/player/hand.gd<>uid://cp5nr6l3g215g::::res://game/player/characters/El Classico/ouch.mp3
+ouch.mp3::AudioStreamMP3::5888426680478833634::1747714115::1747714125::1::::<><>::
+::res://game/player/characters/TopDownO/::1747714115
+top_down_o.gd::GDScript::-1::1747714115::0::1::::<>BasePlayer<>::
+top_down_o.tscn::PackedScene::317176021388271665::1747714115::0::1::::<><>::uid://d4mufsk5s6ksm::::res://game/player/base_player.tscn<>res://game/player/hand.gd<>res://game/player/characters/TopDownO/top_down_o.gd
+::res://game/player/crafting/::1747714115
+crafting.gd::GDScript::-1::1747714115::0::1::::PlayerCrafting<>Node<>::
+crafting_list_item.tscn::PackedScene::2639497514580212123::1747714115::0::1::::<><>::uid://2ejptqf8her3::::res://game/player/ui_list_item.tscn<>res://game/player/crafting/craft_list_item.gd
+crafting_ui.gd::GDScript::-1::1747714115::0::1::::CraftingUI<>MarginContainer<>::
+crafting_ui.tscn::PackedScene::8976576757882333609::1747714115::0::1::::<><>::res://game/player/crafting/crafting_ui.gd<>uid://bduueya3vfmwh::::res://game/player/crafting/crafting_list_item.tscn
+craft_list_item.gd::GDScript::-1::1747714115::0::1::::CraftingListItem<>UIListItem<>::
+::res://game/player/hotbar/::1747714115
+hotbar_selection.png::CompressedTexture2D::2760316400944630269::1747714115::1747714125::1::::<><>::
+hotbar_slot.gd::GDScript::-1::1747714115::0::1::::HotbarSlot<>InventorySlot<>::
+hotbar_slot.tscn::PackedScene::7330362851271557863::1747714115::0::1::::<><>::uid://dtq28wgfpmux8::::res://game/player/inventory/inventory_slot.tscn<>res://game/player/hotbar/hotbar_slot.gd<>uid://bfleajb856jir::::res://game/player/hotbar/hotbar_selection.png
+::res://game/player/inventory/::1747714115
+inventory.gd::GDScript::-1::1747714115::0::1::::Inventory<>RefCounted<>::
+inventory_item.gd::GDScript::-1::1747714115::0::1::::InventoryItem<>Resource<>::
+inventory_slot.gd::GDScript::-1::1747714115::0::1::::InventorySlot<>PanelContainer<>::
+inventory_slot.tscn::PackedScene::8527579579300678383::1747714115::0::1::::<><>::res://game/player/inventory/inventory_slot.gd
+::res://game/player/loadouts/::1747714115
+default_loadout.tres::Resource/PlayerLoadout::7099667843753131545::1747714115::0::1::::<><>::res://game/player/player_loadout.gd<>uid://de53vt430ls03::::res://game/items/pickaxe/pickaxe.tres<>res://game/player/inventory/inventory_item.gd<>uid://c0uy4aakxock::::res://game/items/sword/sword.tres
+full_loadout.tres::Resource/PlayerLoadout::3124489089268769872::1747714115::0::1::::<><>::uid://de53vt430ls03::::res://game/items/pickaxe/pickaxe.tres<>res://game/player/inventory/inventory_item.gd<>uid://c0uy4aakxock::::res://game/items/sword/sword.tres<>uid://boxvhcc5xviuo::::res://game/items/fishing rod/fishing_rod.tres<>res://game/player/player_loadout.gd<>uid://dvmim47wemg41::::res://game/items/coal ore/coal_ore.tres<>uid://dxr48tuivsyc2::::res://game/items/iron ore/iron_ore.tres<>uid://jkfdi3kaaiof::::res://game/items/stone/stone.tres<>uid://bhhsycxt24sle::::res://game/items/iron ingot/iron_ingot.tres<>uid://co1txj2dn5cyi::::res://game/items/grenade/grenade.tres
+::res://game/player/state machine/::1747714115
+building_state.gd::GDScript::-1::1747714115::0::1::::PlayerBuildingState<>PlayerState<>::
+default_state.gd::GDScript::-1::1747714115::0::1::::<>PlayerState<>::
+dying_state.gd::GDScript::-1::1747714115::0::1::::<>PlayerState<>::
+fishing_state.gd::GDScript::-1::1747714115::0::1::::PlayerFishingState<>PlayerState<>::
+item_charging_state.gd::GDScript::-1::1747714115::0::1::::<>PlayerState<>::
+item_using_state.gd::GDScript::-1::1747714115::0::1::::<>PlayerState<>::
+mining_state.gd::GDScript::-1::1747714115::0::1::::PlayerMiningState<>PlayerState<>::
+player_state.gd::GDScript::-1::1747714115::0::1::::PlayerState<>StateMachineState<>::
+player_state_machine.gd::GDScript::-1::1747714115::0::1::::PlayerStateMachine<>FiniteStateMachine<>::
+::res://game/recipes/::1747714115
+crafting_recipe.gd::GDScript::-1::1747714115::0::1::::CraftingRecipe<>Resource<>::
+furnace_recipe.gd::GDScript::-1::1747714115::0::1::::FurnaceRecipe<>Resource<>::
+::res://game/recipes/crafting/::1747714115
+grenade.tres::Resource/CraftingRecipe::6383900365791308376::1747714115::0::1::::<><>::uid://bhhsycxt24sle::::res://game/items/iron ingot/iron_ingot.tres<>res://game/recipes/crafting_recipe.gd<>res://game/player/inventory/inventory_item.gd<>uid://dvmim47wemg41::::res://game/items/coal ore/coal_ore.tres<>uid://co1txj2dn5cyi::::res://game/items/grenade/grenade.tres
+iron_rod.tres::Resource/CraftingRecipe::4348245609831130577::1747714115::0::1::::<><>::res://game/recipes/crafting_recipe.gd<>uid://bhhsycxt24sle::::res://game/items/iron ingot/iron_ingot.tres<>res://game/player/inventory/inventory_item.gd<>uid://dv31mtwe5t883::::res://game/items/iron rod/iron_rod.tres
+pickaxe.tres::Resource/CraftingRecipe::9171530763096216119::1747714115::0::1::::<><>::uid://bhhsycxt24sle::::res://game/items/iron ingot/iron_ingot.tres<>res://game/recipes/crafting_recipe.gd<>res://game/player/inventory/inventory_item.gd<>uid://de53vt430ls03::::res://game/items/pickaxe/pickaxe.tres<>uid://dv31mtwe5t883::::res://game/items/iron rod/iron_rod.tres
+stone_slab.tres::Resource/CraftingRecipe::6568374816489118959::1747714115::0::1::::<><>::uid://jkfdi3kaaiof::::res://game/items/stone/stone.tres<>res://game/recipes/crafting_recipe.gd<>res://game/player/inventory/inventory_item.gd<>uid://boaaatfynuoc2::::res://game/items/stone slab/stone_slab.tres
+::res://game/recipes/furnace/::1747714115
+iron.tres::Resource/FurnaceRecipe::7269242662561453942::1747714115::0::1::::<><>::res://game/recipes/furnace_recipe.gd<>uid://dxr48tuivsyc2::::res://game/items/iron ore/iron_ore.tres<>uid://bhhsycxt24sle::::res://game/items/iron ingot/iron_ingot.tres
+::res://game/scenarios/::1747714115
+base_scenario.gd::GDScript::-1::1747714115::0::1::::BaseScenario<>Game<>::
+base_scenario.tscn::PackedScene::6933734923487441231::1747714115::0::1::::<><>::res://game/scenarios/base_scenario.gd<>uid://dbdvl22708gp::::res://utils/level editor/level_editor.tscn<>uid://dc0j27pwmaoye::::res://game/world/world.tscn<>uid://rulbjxj13xn7::::res://game/scenarios/scenario_ui.tscn<>res://game/ui/camera.gd
+scenario_ui.gd::GDScript::-1::1747714115::0::1::::<>CanvasLayer<>::
+scenario_ui.tscn::PackedScene::1235168078327526038::1747714115::0::1::::<><>::res://game/scenarios/scenario_ui.gd
+::res://game/scenarios/built in/::1747714115
+::res://game/scenarios/built in/freeplay/::1747714115
+freeplay.tscn::PackedScene::5033574548182967330::1747714115::0::1::::<><>::res://game/game.gd<>res://game/cheats.gd<>res://game/game_settings.gd<>uid://baufx6u2wjni6::::res://game/player/characters/El Classico/el_classico.tscn<>res://game/ui/camera.gd<>uid://dc0j27pwmaoye::::res://game/world/world.tscn<>uid://cdcf6aptu5uo4::::res://game/world/terrain generator/generators/large_caves.tres
+game_settings.tres::Resource/GameSettings::2447236211302482783::1747714115::0::1::::<><>::res://game/game_settings.gd
+::res://game/scenarios/built in/freeplay top down/::1747714115
+freeplay_top_down.tscn::PackedScene::1489251927208370345::1747714115::0::1::::<><>::res://game/game.gd<>uid://dpkddexaakklt::::res://game/scenarios/built in/freeplay top down/game_settings.tres<>res://game/cheats.gd<>uid://baufx6u2wjni6::::res://game/player/characters/El Classico/el_classico.tscn<>uid://dc0j27pwmaoye::::res://game/world/world.tscn<>uid://b2kuuuty8rqw::::res://game/world/terrain generator/generators/large_caves_top_down.tres<>res://game/ui/camera.gd
+game_settings.tres::Resource/GameSettings::8232926237174707905::1747714115::0::1::::<><>::res://game/game_settings.gd
+::res://game/scenarios/built in/sandbox/::1747714115
+game_settings.tres::Resource/GameSettings::8656703795370918954::1747714115::0::1::::<><>::res://game/game_settings.gd
+sandbox.gd::GDScript::-1::1747714115::0::1::::<>Game<>::
+sandbox.tscn::PackedScene::9035538290603598772::1747714115::0::1::::<><>::res://game/scenarios/built in/sandbox/sandbox.gd<>uid://dvlmv8v3wa81s::::res://game/scenarios/built in/sandbox/game_settings.tres<>uid://baufx6u2wjni6::::res://game/player/characters/El Classico/el_classico.tscn<>uid://dc0j27pwmaoye::::res://game/world/world.tscn<>uid://cdcf6aptu5uo4::::res://game/world/terrain generator/generators/large_caves.tres<>res://game/ui/camera.gd
+::res://game/scenarios/iron ingot challenge/::1747714115
+game_settings.tres::Resource/GameSettings::3802137187666616106::1747714115::0::1::::<><>::uid://de53vt430ls03::::res://game/items/pickaxe/pickaxe.tres<>res://game/player/inventory/inventory_item.gd<>uid://b7tlou78nevvw::::res://game/items/clay/clay.tres<>res://game/player/player_loadout.gd<>res://game/game_settings.gd
+iron_ingot_challenge.gd::GDScript::-1::1747714115::0::1::::<>BaseScenario<>::
+iron_ingot_challenge.tscn::PackedScene::8433765179686170676::1747714115::0::1::::<><>::uid://c510uo66y1t16::::res://game/scenarios/base_scenario.tscn<>res://game/scenarios/iron ingot challenge/iron_ingot_challenge.gd<>uid://baufx6u2wjni6::::res://game/player/characters/El Classico/el_classico.tscn<>uid://bhhsycxt24sle::::res://game/items/iron ingot/iron_ingot.tres<>uid://buf1v5pb5n1p3::::res://game/scenarios/iron ingot challenge/game_settings.tres
+::res://game/tags/::1747714115
+ores.tres::Resource/Tag::409120238076446262::1747714115::0::1::::<><>::res://game/tags/tag.gd
+ore_blocks.tres::Resource/Tag::1298375212289709223::1747714115::0::1::::<><>::res://game/tags/tag.gd
+tag.gd::GDScript::-1::1747714115::0::1::::Tag<>Resource<>::
+::res://game/tests/::1747714115
+::res://game/tests/boat/::1747714115
+boat_test.tscn::PackedScene::591181933923861231::1747714115::0::1::::<><>::res://game/tests/playground/playground.gd<>uid://bkrr445vap63e::::res://game/player/loadouts/full_loadout.tres<>res://game/game_settings.gd<>res://game/cheats.gd<>uid://baufx6u2wjni6::::res://game/player/characters/El Classico/el_classico.tscn<>uid://dc0j27pwmaoye::::res://game/world/world.tscn<>uid://coin0o2iwsbjj::::res://game/world/terrain generator/generators/stone_only.tres<>res://game/ui/camera.gd<>uid://cem7rnoxns4c7::::res://game/vehicles/boat/boat.tscn
+::res://game/tests/playground/::1747714115
+playground.gd::GDScript::-1::1747714115::0::1::::<>Game<>::
+playground.tscn::PackedScene::4858785255409997468::1747714115::0::1::::<><>::res://game/tests/playground/playground.gd<>uid://bkrr445vap63e::::res://game/player/loadouts/full_loadout.tres<>res://game/cheats.gd<>res://game/game_settings.gd<>uid://baufx6u2wjni6::::res://game/player/characters/El Classico/el_classico.tscn<>uid://dc0j27pwmaoye::::res://game/world/world.tscn<>res://game/ui/camera.gd<>uid://coin0o2iwsbjj::::res://game/world/terrain generator/generators/stone_only.tres<>uid://xkfp7o6wk8ur::::res://game/mobs/dummy/dummy.tscn<>uid://dx7aae3y68pyh::::res://game/mobs/bat/bat.tscn
+::res://game/tests/water/::1747714115
+water_test.gd::GDScript::-1::1747714115::0::1::::<>Game<>::
+water_test.tscn::PackedScene::4858785255409997468::1747714115::0::1::::<><>::res://game/tests/water/water_test.gd<>uid://bkrr445vap63e::::res://game/player/loadouts/full_loadout.tres<>res://game/cheats.gd<>res://game/game_settings.gd<>uid://baufx6u2wjni6::::res://game/player/characters/El Classico/el_classico.tscn<>uid://dc0j27pwmaoye::::res://game/world/world.tscn<>res://game/ui/camera.gd<>uid://coin0o2iwsbjj::::res://game/world/terrain generator/generators/stone_only.tres
+::res://game/ui/::1747714115
+camera.gd::GDScript::-1::1747714115::0::1::::Camera<>Camera2D<>::
+debug_hud.gd::GDScript::-1::1747714115::0::1::::<>CanvasLayer<>::
+debug_hud.tscn::PackedScene::7771532179414125816::1747714115::0::1::::<><>::res://game/ui/debug_hud.gd
+main_menu.gd::GDScript::-1::1747714115::0::1::::<>CanvasLayer<>::
+main_menu.tscn::PackedScene::5950130965611245496::1747714115::0::1::::<><>::res://game/ui/main_menu.gd<>uid://gocwok8gymun::::res://game/components/user settings/user_settings.tscn<>uid://deqk4620qa1vs::::res://game/ui/options_panel.tscn
+options_panel.tscn::PackedScene::7473708098738167204::1747714115::0::1::::<><>::uid://gocwok8gymun::::res://game/components/user settings/user_settings.tscn
+::res://game/ui/admin/::1747714115
+admin_panel.gd::GDScript::-1::1747714115::0::1::::<>CanvasLayer<>::
+admin_panel.tscn::PackedScene::3370514574789317108::1747714115::0::1::::<><>::res://game/ui/admin/admin_panel.gd<>res://game/ui/admin/admin_state_machine.gd<>res://game/ui/admin/water_row_state.gd<>uid://d4hbmp48eqem4::::res://game/blocks/water blocks/water_block.tres<>res://game/ui/admin/spawn_scene.gd<>uid://dhm7k4rl1tsa7::::res://game/vehicles/rocket/rocket.tscn<>res://game/ui/admin/spawn_mob.gd<>uid://dqthv8ifl1hw0::::res://game/mobs/fish/fish.tres
+admin_state_machine.gd::GDScript::-1::1747714115::0::1::::AdminStateMachine<>FiniteStateMachine<>::
+spawn_mob.gd::GDScript::-1::1747714115::0::1::::<>StateMachineState<>::
+spawn_scene.gd::GDScript::-1::1747714115::0::1::::<>StateMachineState<>::
+water_row_state.gd::GDScript::-1::1747714115::0::1::::<>StateMachineState<>::
+::res://game/vehicles/::1747714115
+vehicle.gd::GDScript::-1::1747714115::0::1::::Vehicle<>CharacterBody2D<>::
+vehicle.tscn::PackedScene::2535266483186564222::1747714115::0::1::::<><>::res://game/vehicles/vehicle.gd<>uid://clf7g7ce703eu::::res://game/vehicles/vehicle_seat.tscn
+vehicle_seat.gd::GDScript::-1::1747714115::0::1::::VehicleSeat<>Node2D<>::
+vehicle_seat.tscn::PackedScene::5557195878769146452::1747714115::0::1::::<><>::res://game/vehicles/vehicle_seat.gd
+::res://game/vehicles/boat/::1747714115
+boat.gd::GDScript::-1::1747714115::0::1::::Boat<>Vehicle<>::
+boat.tscn::PackedScene::5080343282745900952::1747714115::0::1::::<><>::uid://bcedp6wykxo8m::::res://game/vehicles/vehicle.tscn<>res://game/vehicles/boat/boat.gd<>uid://kp5ss4gudwu3::::res://game/components/tile detector/tile_detector.tscn
+::res://game/vehicles/rocket/::1747714115
+flame.png::CompressedTexture2D::6754544065319134022::1747714115::1747714125::1::::<><>::
+rocket.gd::GDScript::-1::1747714115::0::1::::<>Vehicle<>::
+rocket.png::CompressedTexture2D::5585147525622817910::1747714115::1747714125::1::::<><>::
+rocket.tscn::PackedScene::7677318841275954240::1747714115::0::1::::<><>::uid://bcedp6wykxo8m::::res://game/vehicles/vehicle.tscn<>res://game/vehicles/rocket/rocket.gd<>uid://cltqtfxrciwkk::::res://game/vehicles/rocket/rocket.png<>uid://c3h7mbd4oddko::::res://game/vehicles/rocket/flame.png
+::res://game/world/::1747714115
+backgound.gd::GDScript::-1::1747714115::0::1::::<>CanvasLayer<>::
+environment.gd::GDScript::-1::1747714115::0::1::::MyWorldEnvironment<>Node<>::
+world.gd::GDScript::-1::1747714115::0::1::::World<>Node2D<>::
+world.tscn::PackedScene::7351845556512095916::1747714115::0::1::::<><>::res://game/world/world.gd<>uid://bvx4bb7jk0sr7::::res://game/world/item/world_item.tscn<>uid://dre4owqmev6mn::::res://game/world/chunks/world_chunk.tscn<>uid://rchstnfrc547::::res://game/world/terrain generator/generators/default.tres<>res://game/world/components/chunk_updater.gd<>uid://di6fjtt37v77v::::res://game/effects/particles/explosion_particles.tres<>uid://vgl3mtr5d37f::::res://game/components/debug component/debug_component.tscn<>res://game/world/components/mob spawner/mob_spawner.gd<>res://game/world/environment.gd<>uid://dyropcrf6ibvl::::res://game/world/environment/cloud.tscn<>res://game/world/backgound.gd<>res://game/world/environment/sky_shader.gdshader<>uid://cbnmgytutllp::::res://game/world/environment/stars.png
+::res://game/world/chunks/::1747714115
+chunk_storage.gd::GDScript::-1::1747714115::0::1::::ChunkStorage<>Resource<>::
+world_chunk.gd::GDScript::-1::1747714115::0::1::::WorldChunk<>TileMap<>::
+world_chunk.tscn::PackedScene::8362516878628994697::1747714115::0::1::::<><>::res://game/world/chunks/world_chunk.gd<>uid://tt4hj6pt3b1a::::res://game/effects/particles/block_break_particles.tres
+::res://game/world/components/::1747714115
+chunk_updater.gd::GDScript::-1::1747714115::0::1::::ChunkUpdater<>WorldComponent<>::
+world_component.gd::GDScript::-1::1747714115::0::1::::WorldComponent<>Node<>::
+::res://game/world/components/mob spawner/::1747714115
+mob_spawner.gd::GDScript::-1::1747714115::0::1::::MobSpawner<>WorldComponent<>::
+mob_spawner_definition.gd::GDScript::-1::1747714115::0::1::::MobSpawnerDefinition<>Resource<>::
+::res://game/world/environment/::1747714115
+cloud.gd::GDScript::-1::1747714115::0::1::::Cloud<>Node2D<>::
+cloud.tscn::PackedScene::8879765676595695721::1747714115::0::1::::<><>::res://game/world/environment/cloud.gd
+sky_shader.gdshader::Shader::-1::1747714115::0::1::::<><>::
+stars.png::CompressedTexture2D::143253168569113833::1747714115::1747714125::1::::<><>::
+::res://game/world/item/::1747714115
+world_item.gd::GDScript::-1::1747714115::0::1::::WorldItem<>Area2D<>::
+world_item.tscn::PackedScene::3909629769399665970::1747714115::0::1::::<><>::res://game/world/item/world_item.gd
+::res://game/world/terrain generator/::1747714115
+terrain_block_distribution.gd::GDScript::-1::1747714115::0::1::::TerrainBlockDistribution<>Resource<>::
+terrain_generator.gd::GDScript::-1::1747714115::0::1::::TerrainGenerator<>Resource<>::
+terrain_generator_instruction.gd::GDScript::-1::1747714115::0::1::::TerrainGeneratorInstruction<>Resource<>::
+::res://game/world/terrain generator/generators/::1747714115
+default.tres::Resource/TerrainGenerator::1197797278870442738::1747714115::0::1::::<><>::uid://bv3qfie2av8dh::::res://game/blocks/stone block/stone_block.tres<>res://game/world/terrain generator/terrain_block_distribution.gd<>res://game/world/terrain generator/terrain_generator_instruction.gd<>uid://d12w8mbqpsyov::::res://game/blocks/coal block/coal_block.tres<>res://game/world/terrain generator/terrain_generator.gd<>uid://obgjml6tlfcn::::res://game/blocks/iron block/iron_block.tres<>uid://cjykj5i260i0c::::res://game/blocks/air block/air_block.tres<>uid://8qexa73jgb56::::res://game/blocks/godot block/godot_block.tres
+large_caves.tres::Resource/TerrainGenerator::4987895622446571673::1747714115::0::1::::<><>::uid://dxe3ydhcx4yc8::::res://game/blocks/clay block/clay_block.tres<>uid://bv3qfie2av8dh::::res://game/blocks/stone block/stone_block.tres<>res://game/world/terrain generator/terrain_block_distribution.gd<>res://game/world/terrain generator/terrain_generator_instruction.gd<>uid://d12w8mbqpsyov::::res://game/blocks/coal block/coal_block.tres<>uid://obgjml6tlfcn::::res://game/blocks/iron block/iron_block.tres<>uid://8qexa73jgb56::::res://game/blocks/godot block/godot_block.tres<>uid://cjykj5i260i0c::::res://game/blocks/air block/air_block.tres<>res://game/world/terrain generator/terrain_generator.gd<>uid://mmw13x1t1pjw::::res://game/blocks/grass block/grass_block.tres
+large_caves_only.tres::Resource/TerrainGenerator::6549221294825682077::1747714115::0::1::::<><>::uid://bv3qfie2av8dh::::res://game/blocks/stone block/stone_block.tres<>res://game/world/terrain generator/terrain_block_distribution.gd<>res://game/world/terrain generator/terrain_generator_instruction.gd<>uid://dxe3ydhcx4yc8::::res://game/blocks/clay block/clay_block.tres<>uid://d12w8mbqpsyov::::res://game/blocks/coal block/coal_block.tres<>uid://obgjml6tlfcn::::res://game/blocks/iron block/iron_block.tres<>uid://8qexa73jgb56::::res://game/blocks/godot block/godot_block.tres<>uid://cjykj5i260i0c::::res://game/blocks/air block/air_block.tres<>res://game/world/terrain generator/terrain_generator.gd
+large_caves_top_down.tres::Resource/TerrainGenerator::126571011063162466::1747714115::0::1::::<><>::uid://bv3qfie2av8dh::::res://game/blocks/stone block/stone_block.tres<>res://game/world/terrain generator/terrain_block_distribution.gd<>res://game/world/terrain generator/terrain_generator_instruction.gd<>uid://dxe3ydhcx4yc8::::res://game/blocks/clay block/clay_block.tres<>uid://d12w8mbqpsyov::::res://game/blocks/coal block/coal_block.tres<>uid://obgjml6tlfcn::::res://game/blocks/iron block/iron_block.tres<>uid://8qexa73jgb56::::res://game/blocks/godot block/godot_block.tres<>uid://cjykj5i260i0c::::res://game/blocks/air block/air_block.tres<>res://game/world/terrain generator/terrain_generator.gd
+stone_and_caves.tres::Resource/TerrainGenerator::8606757770753151322::1747714115::0::1::::<><>::uid://bv3qfie2av8dh::::res://game/blocks/stone block/stone_block.tres<>res://game/world/terrain generator/terrain_block_distribution.gd<>res://game/world/terrain generator/terrain_generator_instruction.gd<>res://game/world/terrain generator/terrain_generator.gd<>uid://cjykj5i260i0c::::res://game/blocks/air block/air_block.tres
+stone_only.tres::Resource/TerrainGenerator::5772834943534933103::1747714115::0::1::::<><>::res://game/world/terrain generator/terrain_generator.gd<>uid://bv3qfie2av8dh::::res://game/blocks/stone block/stone_block.tres<>res://game/world/terrain generator/terrain_block_distribution.gd<>res://game/world/terrain generator/terrain_generator_instruction.gd
+::res://local/::1747714115
+::res://media/::1747714115
+banner.png::CompressedTexture2D::5501815131810558699::1747714115::1747714125::1::::<><>::
+el_classico_character large.png::CompressedTexture2D::9154427403977132216::1747714115::1747714125::1::::<><>::
+el_classico_character.png::CompressedTexture2D::1191134919214717331::1747714115::1747714125::1::::<><>::
+youtube tutorial 2.png::CompressedTexture2D::1788075278562455868::1747714115::1747714125::1::::<><>::
+youtube tutorial 3.png::CompressedTexture2D::943067264397427326::1747714115::1747714125::1::::<><>::
+youtube tutorial.png::CompressedTexture2D::2679119604161811279::1747714115::1747714125::1::::<><>::
+::res://misc/::1747714115
+::res://misc/screenshot scenario/::1747714115
+screenshot_scenario.tscn::PackedScene::8245917227328477944::1747714115::0::1::::<><>::uid://c510uo66y1t16::::res://game/scenarios/base_scenario.tscn<>res://game/game_settings.gd<>uid://baufx6u2wjni6::::res://game/player/characters/El Classico/el_classico.tscn
+::res://resources/::1747714115
+orig_tile_set.tres::TileSet::999849729828628534::1747714115::0::1::::<><>::
+::res://script_templates/::1747714115
+::res://script_templates/Node/::1747714115
+state_template.gd::GDScript::-1::1747714115::0::1::::<>StateMachineState<>::
+::res://utils/::1747714115
+::res://utils/level editor/::1747714115
+level_editor.gd::GDScript::-1::1747714115::0::1::::<>TileMap<>::
+level_editor.tscn::PackedScene::212851182055570119::1747714115::0::1::::<><>::res://utils/level editor/level_editor.gd
