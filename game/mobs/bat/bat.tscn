@@ -6,7 +6,7 @@
 [ext_resource type="Script" path="res://game/mobs/bat/fly_state.gd" id="5_se00s"]
 
 [sub_resource type="RectangleShape2D" id="RectangleShape2D_0gfmn"]
-size = Vector2(22, 11)
+size = Vector2(61.6944, 38.8333)
 
 [sub_resource type="Curve" id="Curve_g6y4u"]
 _data = [Vector2(0, 1), 0.0, 0.0, 0, 0, Vector2(0.986111, 0.0641509), 0.0, 0.0, 0, 0]
@@ -64,6 +64,7 @@ sleep_state = NodePath("State Machine/Sleep")
 fly_state = NodePath("State Machine/Fly")
 
 [node name="CollisionShape2D" parent="." index="0"]
+position = Vector2(-0.833338, 1.66667)
 scale = Vector2(1.2, 1.2)
 shape = SubResource("RectangleShape2D_0gfmn")
 
@@ -179,7 +180,7 @@ collision_mask = 2
 monitorable = false
 
 [node name="CollisionShape2D" type="CollisionShape2D" parent="Movement Detection" index="0"]
-position = Vector2(1.38889, 16.6667)
+position = Vector2(-0.694446, -0.694447)
 shape = SubResource("RectangleShape2D_prcf5")
 debug_color = Color(0.796078, 0.411765, 0.282353, 0.419608)
 

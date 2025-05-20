@@ -1,7 +1,7 @@
 class_name MobSpawner
 extends WorldComponent
 
-@export var min_player_distance: int= 50
+@export var min_player_distance: int= 25
 
 
 

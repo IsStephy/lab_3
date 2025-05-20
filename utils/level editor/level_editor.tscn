@@ -8,5 +8,4 @@ layer_0/name = "terrain"
 layer_1/name = "fluids"
 layer_1/z_index = 20
 layer_1/navigation_enabled = false
-layer_1/tile_data = PackedInt32Array()
 script = ExtResource("1_bohj5")

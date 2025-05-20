@@ -2,3 +2,9 @@ res://game/startup.tscn
 res://game/audio/sound_library.tres
 res://game/mobs/dummy/dummy.tscn
 res://game/mobs/bat/bat.tscn
+res://resources/tile_set.tres
+res://utils/level editor/level_editor.tscn
+res://game/ui/main_menu.tscn
+res://game/world/components/mob spawner/mob_spawner.gd
+res://game/world/terrain generator/generators/default.tres
+res://game/scenarios/base_scenario.tscn
